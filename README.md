@@ -1,20 +1,87 @@
-# QA Portfolio
+# 👋 Hi, I'm W. M. Lakshitha Sandaruwan
 
-This is my Quality Assurance (QA) practice project.
+## QA Engineer Portfolio
 
-## Contents:
+Welcome to my Quality Assurance Portfolio.
+
+I am an ICT undergraduate at the University of Vavuniya passionate about Software Quality Assurance.
+
+---
+
+## Skills
+
+- Manual Testing
+- Test Case Design
+- Test Scenario Design
+- Bug Reporting
+- Smoke Testing
+- Regression Testing
+- API Testing (Postman)
+- SQL Basics
+- Selenium Basics
+- Agile & Scrum
+- Jira (Basic)
+
+---
+
+## Projects
+
+### Project 1 - QA Basics
+- Test Plan
 - Test Cases
 - Bug Reports
-- SQL Queries
-- API Testing
-- Manual Testing Practice
+- SQL Practice
+- API Practice
 
-## Skills Used:
-- Manual Testing
-- Bug Reporting
-- Test Case Writing
-- SQL Basics
-- API Testing (Postman)
+### Project 2 - E-Commerce Website Testing (SauceDemo)
 
-## Author:
-Your Name
+Features Tested
+
+- Login
+- Product Page
+- Product Details
+- Shopping Cart
+- Checkout
+- Sorting
+- Logout
+- End-to-End Testing
+
+Project Deliverables
+
+- 56 Manual Test Cases
+- Test Plan
+- Test Summary Report
+- Screenshots
+- Bug Reports
+
+---
+
+## Tools
+
+- Postman
+- Microsoft Excel
+- Microsoft Word
+- GitHub
+
+---
+
+## Education
+
+University of Vavuniya
+
+Faculty of Technology
+
+Department of ICT
+
+---
+
+## Contact
+
+Email:
+your-email@example.com
+
+LinkedIn:
+(Add later)
+
+GitHub:
+(Add your GitHub profile link)
